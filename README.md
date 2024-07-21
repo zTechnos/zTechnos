@@ -60,8 +60,7 @@ As a developer, I have a diverse skill set encompassing various technologies and
 <br>
 <br>
 - **Games**:
-<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)"><br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)"><br>
 
 ![Steam] (https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
